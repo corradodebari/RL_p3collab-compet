@@ -86,7 +86,7 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 8. Before running code in a notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu. 
 
 
-9. Follow the instructions in Tennis.ipynb to get started with training your own agent!
+9. Follow the instructions in `Tennis.ipynb` to get started with training your own agent!
 
 
 
